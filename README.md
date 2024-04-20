@@ -8,7 +8,7 @@
 
 I'm Moonrise,
 
-I'm an 18-year-old coder and 3d designer. Most of the stuff I like to do pertains to 3D design (or 3D printing), coding, or both :)
+A coder and 3d designer. Most of the stuff I like to do pertains to 3D design (or 3D printing), coding, or both :)
 
 Occasionally I'll also throw together wacky desmos graphs (I swear I'm not a math whiz, I just like manipulating graphs).
 
