@@ -4,6 +4,8 @@
    <a href="https://en.pronouns.page/he%26him/"><img alt="My Pronouns!" src="https://img.shields.io/static/v1?label=PRONOUNS&message=he/him&colorA=000000&colorB=4600A8&style=for-the-badge"></a>
   
    <img alt="Languages" src="https://img.shields.io/static/v1?label=Languages&message=English/Espa%C3%B1ol&colorA=000000&colorB=a8000d&style=for-the-badge">
+
+   [![](https://visitcount.itsvg.in/api?id=MoonriseSunset&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 </h2>
 
 I'm Moonrise,
