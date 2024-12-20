@@ -12,7 +12,7 @@ I'm Moonrise,
 
 I enjoy coding and working on 3D design and printing. Usually I work on small personal projects, though I have participated in school clubs where I utilized these skills.
 
-For more info on some projects I've worked on, check out [my website](https://moonrisesunset.github.io/projects/), do bear in mind it's still WIP so stuff may not be fully populated.
+For more info on some projects I've worked on, check out [my website](https://moonrisesunset.github.io), do bear in mind it's still WIP so stuff may not be fully populated.
 
 # Tech Stack
 
