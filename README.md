@@ -14,7 +14,7 @@ I enjoy coding and working on 3D design and printing. Usually I work on small pe
 
 For more info on some projects I've worked on, check out [my website](https://moonrisesunset.github.io), do bear in mind it's still WIP so stuff may not be fully populated.
 
-# Tech Stack
+# My Tech Stack
 
 ## Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
