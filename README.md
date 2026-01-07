@@ -1,22 +1,17 @@
 <h1> Hello!</h1>
 
-<h2 align="center">
-   <a href="https://en.pronouns.page/he%26him/"><img alt="My Pronouns!" src="https://img.shields.io/static/v1?label=PRONOUNS&message=he/him&colorA=000000&colorB=4600A8&style=for-the-badge"></a>
-  
-   <img alt="Languages" src="https://img.shields.io/static/v1?label=Languages&message=English/Espa%C3%B1ol&colorA=000000&colorB=a8000d&style=for-the-badge">
-
-   [![](https://visitcount.itsvg.in/api?id=MoonriseSunset&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
-</h2>
-
 I'm Moonrise,
 
-I enjoy coding and working on 3D design and printing. Usually I work on small personal projects, though I have participated in school clubs where I utilized these skills.
+I enjoy coding and working on 3D design and printing. Most of the projects I work on nowadays involve CAD or Arduino-type microcontrollers. I've also recently dabbled in a little self-hosting :)
 
-For more info on some projects I've worked on, check out [my website](https://moonrisesunset.github.io), do bear in mind it's still WIP so stuff may not be fully populated.
+For more info on some projects I've worked on, check out [my website](https://moonrisesunset.github.io).
 
 # My Tech Stack
 
 ## Languages
+
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.c-language.org/)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,9 +27,12 @@ For more info on some projects I've worked on, check out [my website](https://mo
 ![GH-Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
-## Programs/Editors
+## Tools I Use
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
+
+![SOLIDWORKS](https://img.shields.io/badge/solidworks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![Autodesk Fusion](https://img.shields.io/badge/Autodesk%20Fusion-f07014?style=for-the-badge&logo=autodesk&logoColor=black)
+
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 # Badge Resources
